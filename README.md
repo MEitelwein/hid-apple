@@ -1,7 +1,7 @@
 # hid-apple
 Patches to linux hid-apple for new Apple Magic Keyboard 2015 (USB ID 05AC:0267). This is a very 
 thin aluminium keyboard which can be attached via bluetooth or usb. I am using a german keyboard
-layout which works without flaws with the ISO settings.
+layout which works well with the ISO settings in hid-apple.
 
 Patch is based on kernel 4.2.0-34.39 of ubuntu.
 
